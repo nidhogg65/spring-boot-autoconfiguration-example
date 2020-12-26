@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.nidhogg.spring.boot.starter.NidhoggAutoConfiguration
